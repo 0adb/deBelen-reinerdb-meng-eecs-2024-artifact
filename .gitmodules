@@ -1,0 +1,9 @@
+[submodule "riscv-semantics"]
+	path = riscv-semantics
+	url = ./riscv-semantics/
+[submodule "hs-to-coq"]
+	path = hs-to-coq
+	url = ./hs-to-coq/
+[submodule "bedrock2"]
+	path = bedrock2
+	url = ./bedrock2/
