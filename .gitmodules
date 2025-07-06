@@ -1,9 +1,12 @@
 [submodule "riscv-semantics"]
 	path = riscv-semantics
-	url = ./riscv-semantics/
+	url = https://github.com/0adb/riscv-semantics.git
+        branch = thesis-2024-artifact
 [submodule "hs-to-coq"]
 	path = hs-to-coq
-	url = ./hs-to-coq/
+	url = https://github.com/0adb/hs-to-coq.git
+        branch = thesis-2024-artifact
 [submodule "bedrock2"]
 	path = bedrock2
-	url = ./bedrock2/
+	url = https://github.com/0adb/bedrock2.git
+        branch = thesis-2024-artifact
